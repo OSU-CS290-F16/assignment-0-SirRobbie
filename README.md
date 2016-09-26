@@ -1,11 +1,11 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `Cameron Culp`
+Name: Cameron Culp
 
-ONID ID: `culpc`
+ONID ID: culpc
 
-Link to my CS 290 page: `http://web.engr.oregonstate.edu/~culpc/blog.html`
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~culpc/blog.html
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
